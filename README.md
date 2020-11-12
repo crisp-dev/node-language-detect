@@ -12,7 +12,7 @@
 
 `LanguageDetect` is a port of the [PEAR::Text_LanguageDetect](http://pear.php.net/package/Text_LanguageDetect) for [node.js](http://nodejs.org).
 
-LanguageDetect can identify 52 human languages from text samples and return confidence scores for each.
+LanguageDetect can identify 31 human languages from text samples and return confidence scores for each.
 
 ### Installation
 This package can be installed via [npm](http://npmjs.org/) as follows
