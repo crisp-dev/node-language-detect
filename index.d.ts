@@ -8,9 +8,11 @@ declare module 'languagedetect' {
      */
     class LanguageDetect {
         /**
-         * No parameters required
+         * Constructor
+         *
+         * @param languageType The language type
          */
-        constructor();
+        constructor(languageType);
 
         /**
          * Detects the closeness of a sample of text to the known languages
